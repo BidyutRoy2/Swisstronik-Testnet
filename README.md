@@ -27,6 +27,6 @@
 
   
 
-### - Get Latest Airdrops & Updates
+### <> Get Latest Airdrops & Updates <>
 
-### - Join Telegram: [HiddenGemNews](https://t.me/hiddengemnews)
+### <> Join Telegram: [HiddenGemNews](https://t.me/hiddengemnews) <>
