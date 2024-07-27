@@ -25,6 +25,8 @@
 - Now visit [this site](https://github.com/BidyutRoy2/Swisstronik-Testnet/blob/main/Upload-To-Github.md) to upload codes on ur github
 - Afterthat, Visit [Swisstronik Testnet Website](https://www.swisstronik.com/testnet2/dashboard) to submit your newly created contract address, Transfer Tx URL and repo link
 
+# New Simple Contract Deployment Script [Link Here](https://github.com/BidyutRoy2/Swisstronic-Script)
+
   
 
 ### <> Get Latest Airdrops & Updates <>
